@@ -1,2 +1,2 @@
-Holagit push -u origin master!
+Holagit pushaa -u origin master!
 ,...........
